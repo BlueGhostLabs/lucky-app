@@ -1,0 +1,4 @@
+# Ignoring the executable that is generated.
+server
+lib/
+bin/lucky
